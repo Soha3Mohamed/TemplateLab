@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="StarterApi.API/StarterApi.API.csproj" />
+  <Project Path="StarterApi.Application/StarterApi.Application.csproj" />
+  <Project Path="StarterApi.Domain/StarterApi.Domain.csproj" />
+  <Project Path="StarterApi.Infrastructure/StarterApi.Infrastructure.csproj" />
+</Solution>
